@@ -1,5 +1,5 @@
 # Nebula Warriors X
-# IMPORTANT: DO NOT DELETE THE "Deluxe Octo Quality Seal"
+# IMPORTANT: DO NOT DELETE THE "Deluxe Octo Seal"
 **Nebula Warriors X** is a 2D space shooter game built with **Python** and **Pygame**.  
 Fly your rocket through space, shoot enemies, dodge asteroids, and survive as long as you can!  
 
