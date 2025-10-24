@@ -1,5 +1,5 @@
-# 🌌 Nebula Warriors X
-### IMPORTANT: DO NOT DELETE THE "Deluxe Octo Quality Seal"
+# Nebula Warriors X
+# IMPORTANT: DO NOT DELETE THE "Deluxe Octo Quality Seal"
 **Nebula Warriors X** is a 2D space shooter game built with **Python** and **Pygame**.  
 Fly your rocket through space, shoot enemies, dodge asteroids, and survive as long as you can!  
 
@@ -7,7 +7,7 @@ This project includes all sound effects, sprites, and the compiled `.exe` versio
 
 ---
 
-## 🚀 Features
+## Features
 
 - Classic **space shooter gameplay**
 - Player-controlled spaceship (rocket)
@@ -20,7 +20,7 @@ This project includes all sound effects, sprites, and the compiled `.exe` versio
 
 ---
 
-## 📂 Project Files
+## Project Files 📂
 
 | File | Description |
 |------|--------------|
@@ -42,14 +42,14 @@ This project includes all sound effects, sprites, and the compiled `.exe` versio
 
 ---
 
-## 🧠 How to Run the Game
+## How to Run the Game
 
-### 🟢 Option 1 — Run the Prebuilt Game
+### Option 1 — Run the Prebuilt Game
 If you’re on **Windows**:
 1. Double-click **`NBX.exe`**
 2. Enjoy the game — no installation required!
 
-### 🟣 Option 2 — Run from Source (Python)
+### Option 2 — Run from Source (Python)
 If you prefer to run the Python version manually:
 
 1. Make sure you have **Python 3.11 or newer** installed.
